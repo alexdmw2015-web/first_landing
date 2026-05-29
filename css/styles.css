@@ -100,6 +100,7 @@ button {
 
 .goals-list-item-text {
     margin-left: 14px;
+    vertical-align: top;
 }
 
 .third {
